@@ -1,4 +1,6 @@
+
+*.log
+*.neptune
 /dataset
 *.pt
-*.ipynb
 *.ipynb
